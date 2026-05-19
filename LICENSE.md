@@ -1,4 +1,4 @@
-# 
+# smart okx trading bot addons is the best okx trading bot addons with order-book-analysis and stop-loss. Safe, reliable, and optimized for CEX, DEX, and algorithmic trading
 
 
 
